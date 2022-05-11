@@ -30,7 +30,8 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'TodoApp.App'
+    //mainClass = 'TodoApp.App'
+    mainClass = 'view/MainScreen'
 }
 
 tasks.named('test') {
